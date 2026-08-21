@@ -1,0 +1,101 @@
+barcode,product_name,brands,quantity_grams,sugars_100g,fat_100g,fiber_100g,proteins_100g,salt_100g,energy_kcal_100g,nutrition_grades,sugar_pct_dv,sugar_tier,high_sugar_flag,shelf_location,units_sold_last_month,sugar_pct_dv_scaled
+3168930010265,cruesly mélange de noix,Quaker,450.0,12,19,10,8.5,0,462,b,24.0,high,1,Endcap-South,742,0.48
+3229820160672,Croustillant Chocolat,Bjorg,500.0,14,14,10,9.27,0.26,431.666666666667,c,28.000000000000004,high,1,Aisle 2B,745,0.56
+3229820019307,Flocons d'avoine,BJORG,500.0,1.7,7.1,11,11,0.02,363.333333333333,a,3.4000000000000004,low,0,Aisle 4B,1122,0.068
+3229820129488,"Muesli Raisin, Figue, Datte, Abricot",Bjorg,375.0,14,5.8,10,11,0.03,352,a,28.000000000000004,high,1,,,0.56
+3387390123210,Chocapic,"Nestlé, Chocapic",375.0,19.9,4.4,7.7,8.5,0.2,384,b,39.8,high,1,Aisle 2B,277,0.7959999999999999
+5010477348678,Special Muesli 30% fruits & noix,Jordans,750.0,17,7.2,8.8,10,0.03,360,a,34.0,high,1,Aisle 2B,138,0.68
+3229820782560,"Muesli Superfruits Raisins, cassis, cranberry, myrtille",Bjorg,375.0,13,6,10,12,0.04,358.571428571429,a,26.0,high,1,Aisle 1A,570,0.52
+7613036669146,NESTLE CHOCAPIC BIO Céréales - Boite de 375g,"Nestlé, Chocapic",375.0,19.9,5.6,8.2,9.1,0.2,390,b,39.8,high,1,Endcap-South,null,0.7959999999999999
+5010029000023,Original,Weetabix,430.0,4.2,2,10,12,0.28,362,a,8.4,moderate,0,Aisle 1A,357,0.168
+5010477348357,Country Crisp 4 noix,Jordans,550.0,18,20,6.1,11,0.03,465,c,36.0,high,1, Aisle 3C,,0.72
+8410076610737,NATURE VALLEY protein pind&choc.GV,Nature Valley,160.0,17.1,28.3,10.7,25.6,0.99,488,d,34.2,high,1,,,0.684
+3159470000120,CORN FLAKES,Kellogg's,500.0,8,0.9,3,7,1.1,376.666666666667,d,16.0,moderate,0,Aisle 2B,180,0.32
+3229820769165,Muesli avoine chocolat bio,Bjorg,375.0,8.2,8.8,10,12,0.1,386,a,16.4,moderate,0,Aisle 2B,72,0.32799999999999996
+3168930010906,Cruesli Chocolat noir,Quaker,450.0,16,19,10,8.1,0.48,455,c,32.0,high,1,Aisle 2B,492,0.64
+3168930009078,Flocons d'avoine complète,Quaker,550.0,1.1,8,9,11,0.01,395,a,2.2,low,0,,,0.044000000000000004
+20003166,,Crownfield,500.0,0.7,7,10,13.5,0.02,372,a,1.4,low,0, Aisle 3C,85,0.027999999999999997
+5010477348630,Muesli 36% fruits noix & graines,Jordan,500.0,18.9,8.4,8.5,9.3,0.03,373,c,37.8,high,1,Aisle 1A,345,0.7559999999999999
+3168930009795,Muesli Croustillant Noix de pécan & noix du Brésil,Quaker,500.0,13,11,13,11,0.24,420,b,26.0,high,1,Endcap-South,595,0.52
+7613035449626,NESTLE CHOCAPIC Céréales 645g,"Nestlé, Chocapic",645.0,19.9,4.4,7.7,8.5,0.2,384,b,39.8,high,1,Aisle 2B,125,0.7959999999999999
+5010477348395,Country Crisp - Chocolat noir 70% cacao,Jordans,550.0,23,15,5.6,8.8,0.03,446,d,46.0,high,1,Aisle 4B,944,0.92
+5010477348517,Country Crisp 4 Baies,Jordans,550.0,20,13,6,9.1,0.03,432,c,40.0,high,1,Aisle 2B,812,0.8
+3229820798110,Granola Chocolat,Bjorg,350.0,12,13,7.5,10,0.01,420,c,24.0,high,1,Aisle 4B,362,0.48
+3229820797861,Croustillant 3 noix,Bjorg,450.0,14,17,9.9,11,0.02,486.666666666667,b,28.000000000000004,high,1,Aisle 1A,119,0.56
+4008713713411,Copos de Avena extra suaves,Brüggen,800.0,0.7,7,10,14,5e-05,367.5,a,1.4,low,0,Aisle 4B,767,0.027999999999999997
+5059319023762,Miel Pops,KELLOG'S,330.0,22,1.5,4.6,5.2,0.4,384,c,44.0,high,1,Endcap-South,1051,0.88
+5010029229110,Crispy Minis Choco,Weetabix,500.0,17,5.1,10,10,0.16,386,b,34.0,high,1,,,0.68
+3421557501722,Muesli croustillant tradition,Terres et Céréales,1.0,20,13,5.9,9.1,0.05,440,c,40.0,high,1,,,0.8
+3421557501975,Muesli croustillant duo pépites,Terres et Céréales Bio,100.0,25,13,7.6,9.2,0.05,434,c,50.0,high,1,Aisle 2B,267,1.0
+3229820786605,Crousti' Avoine Chocolat,Bjorg,500.0,14,13,9.5,10,0.1,416,c,28.000000000000004,high,1,Aisle 2B,138,0.56
+3168930003632,Quaker Oats,Quaker,800.0,1.1,8,9,11,0.01,375,a,2.2,low,0,,,0.044000000000000004
+3229820116716,Muesli aux fruits,Bjorg,750.0,10,6,10,11,0.02,358.333333333333,a,20.0,high,1,Aisle 4B,998,0.4
+3229820796857,Flocons d'avoine,Bjorg,900.0,0,8,11,10.8333333333333,0.0833333333333333,363.333333333333,a,0.0,low,0,,,0.0
+7613287514325,Fitness Nature Céréales complètes,"Nestlé, Fitness",475.0,8.3,1.5,8.5,9.8,0.56,368,a,16.6,moderate,0, Aisle 3C,897,0.332
+7613032779566,chocapic,"Nestlé, Chocapic",1000.0,19.9,4.4,7.7,8.5,0.2,384,b,39.8,high,1,Aisle 1A,505,0.7959999999999999
+3168930010890,Quaker Cruesli Chocolat au lait,Quaker,450.0,20,19,8.7,7.7,0.51,471.111111111111,d,40.0,high,1,Endcap-South,298,0.8
+5010477365316,Oh my crisp ! - Noix,JORDANS,400.0,9.5,20,18,9,0.03,440,b,19.0,moderate,0,Aisle 1A,510,0.38
+3421557502446,T&C Muesli croustillant avoine amandes sans gluten,Terres & céréales bio,500.0,18,15,6.9,9,0.04,447,c,36.0,high,1,Endcap-South,284,0.72
+3229820794556,"Muesli Proteines Soja, Dattes, Fruits Rouges",Bjorg,375.0,10,9.4,12,21,0.02,365,a,20.0,high,1,Aisle 1A,400,0.4
+3387390326574,Céréales Cookie Crisp,"Nestlé, Cookie crisp",375.0,22.4,5.2,6,6.7,0.66,393,c,44.8,high,1,Aisle 1A,290,0.8959999999999999
+3229820797946,Muesli sans sucres ajoutés raisin figue datte abricot,Bjorg,750.0,14,5.8,10,11,0.03,352,a,28.000000000000004,high,1,Aisle 2B,864,0.56
+8402001010873,Muesli Crunchy,Hacendado,500.0,3.2,12,23,8.8,0.08,401,a,6.4,moderate,0,Aisle 2B,732,0.128
+5010477356277,Granola Amandes Noisettes & Graines,Jordans,400.0,2.5,14.8,16.1,12.6,0.03,451,a,5.0,moderate,0,Aisle 1A,null,0.1
+5010477354051,Muesli Bio Superfruits,Jordans,450.0,10.2,5.5,9.4,11.2,0.03,360,a,20.4,high,1,Endcap-South,592,0.408
+3560071407650,Muesli de quinoa y chocolate,"Carrefour BIO, Carrefour",375.0,16,12,6.8,9.1,0.08,424,c,32.0,high,1, Aisle 3C,994,0.64
+20621469,Special Flakes Original,Crownfield,500.0,8.8,1.8,8.1,8.9,0.5125,386,a,17.6,moderate,0,Aisle 1A,654,0.35200000000000004
+5010477348555,Country Crisp 4 Noix,Jordans,850.0,18,20,6.1,11,0.03,465,c,36.0,high,1,Aisle 4B,0,0.72
+3560070614202,Copos de Avena Integral,Original,500.0,0.7,7,10,14,0,372,a,1.4,low,0,Endcap-South,619,0.027999999999999997
+3421557910203,Flocons d'avoine complets,"Terres & Céréales, Terres & Céréales BIO",500.0,0.9,7,10,12,0.01,371,a,1.8000000000000003,low,0, Aisle 3C,977,0.036000000000000004
+3168930010869,Cruesli Chocolat noir maxi format,QUAKER,900.0,16,19,10,8.1,0.48,455,c,32.0,high,1,Aisle 4B,101,0.64
+3770008009882,Les Fourrées  -  Beurre de Cacahuète & Cacao,Funkie,250.0,13,17,6,13,0.13,438,b,26.0,high,1,Aisle 1A,215,0.52
+3564706604360,Muesli Chocolat-Noisette,Grainea,350.0,8.7,17,11,9.9,0.01,446,b,17.4,moderate,0,Aisle 4B,817,0.348
+3387390019995,NESTLE LION Céréales 400g,"Nestlé, Lion",400.0,24.5,7.4,7,8.1,0.4,406,c,49.0,high,1,Aisle 4B,,0.98
+8480000095367,"Muesli con quinoa, chía y chocolate negro",Hacendado,400.0,18,13,10,9.8,0.11,416,c,36.0,high,1,Endcap-South,812,0.72
+20283360,Fiocchi di avena integrali,Crownfield,500.0,0.7,7,10,13.5,0.02,372,a,1.4,low,0,Endcap-South,865,0.027999999999999997
+5050083296079,Cereales special K original,Kellogg's,500.0,15,1.3,6,8,0.84,392,c,30.0,high,1, Aisle 3C,768,0.6
+3159470005071,Céréales Extra Pépites Chocolat Noisettes,Kellogg's,500.0,21,25,5.8,8,0.68,497,e,42.0,high,1, Aisle 3C,544,0.84
+3256228686558,Céréales Muesli croustillant au chocolat noir 500G,"U, U Bio",500.0,19,11,8.1,9,0.15,395,c,38.0,high,1,Aisle 2B,1061,0.76
+8480000156112,Avena crunchy,Hacendado,400.0,4.6,5.8,11,13,0.2,387,a,9.2,moderate,0,Aisle 2B,818,0.184
+40897677,Hafer Flocken Zart,Crownfield,500.0,0.8,6.7,9.7,13.2,0,372.5,a,1.6,low,0,Aisle 4B,925,0.032
+4056489300786,Knusper Müsli Schoko,Crownfield,500.0,13.7,16.2,9.1,10.9,0.41,447,c,27.399999999999995,high,1,Aisle 1A,940,0.5479999999999999
+5900617002983,Granola chocolate / pieces of chocolate,"Nutrition sante, Sante",350.0,22,16,6.7,8.6,0.61,456,d,44.0,high,1,Aisle 4B,433,0.88
+5010029000016,Weetabix,Weetabix,430.0,4.2,2,10,12,0.28,413.513513513513,a,8.4,moderate,0,Endcap-South,0,0.168
+3421557110313,Krounchy chocolat,Grillon d'Or,1.0,18,15,7.2,9,0.01,442,c,36.0,high,1,Aisle 1A,161,0.72
+3229820800721,muesli superfruits,Bjorg,750.0,13,6,10,12,0.06,362,a,26.0,high,1,,,0.52
+3421557501630,Muesli BIO Fruits raisins pommes abricots & noix de coco Sans sucres ajoutés,T&C Terre et Céréales,1.0,15,5.4,11,9.7,0.01,354,a,30.0,high,1,Aisle 1A,629,0.6
+3229820802138,Croustillant chocolat,Bjorg,900.0,14,14,9.8,9.8,0.28,431.666666666667,c,28.000000000000004,high,1,Aisle 1A,241,0.56
+4056489296805,Bio Knusper Müsli Früchte,"Crownfield, Lidl",500.0,14,14.8,8.4,9.9,0.2,441,c,28.000000000000004,high,1,Endcap-South,1067,0.56
+7613287366665,Nesquik Cereal,Nesquik,150.0,22.4,3,8.5,8.4,0.45,373,unknown,44.8,high,1,Aisle 4B,222,0.8959999999999999
+5053827110983,Céréales Miel Pops,Kellogg's,620.0,22,1.5,4.6,5.2,0.4,384,c,44.0,high,1, Aisle 3C,392,0.88
+3760336830586,Les fourrées cacao noisette,Funkie,250.0,21,15,4.2,7.8,0.03,423,c,42.0,high,1,Aisle 2B,66,0.84
+3229820794549,"Muesli fibres - Son de blé, Figues, Pruneaux",Bjorg,375.0,9,6,15,12,0.02,344,a,18.0,moderate,0,Aisle 1A,0,0.36
+3421557502767,Muesli au chocolat,Terres et Céréales,900.0,9.1,11,9.3,10,0.15,400,a,18.2,moderate,0,Endcap-South,945,0.364
+20159917,CORN FLAKES,Crownfield,500.0,3,1.2,8,8,0.78,386,a,6.0,moderate,0,Aisle 4B,237,0.12
+3421557110221,Muesli avoine amandes chocolat,TERRES ET CÉRÉALES,500.0,22,17,6.8,8.7,0.05,456,c,44.0,high,1,Aisle 1A,955,0.88
+5010477360755,Granola chocolat noir - faible en sucre,Jordans,400.0,3.8,13.3,16.9,11.1,0.03,460,a,7.6,moderate,0,Aisle 2B,788,0.152
+5059319025711,Special K Chocolat Noir,Special K,500.0,17,6.1,6,8.2,0.64,424,d,34.0,high,1,Aisle 1A,113,0.68
+3159470001424,Céréales All Bran Kellogg's Fibre Plus,Kellogg's,500.0,18,3.5,27,14,0.95,334,c,36.0,high,1, Aisle 3C,984,0.72
+5053827199667,Trésor Chocolat au Lait,Kellogg's,410.0,25,15,3.7,7.5,0.96,448,e,50.0,high,1,Aisle 2B,834,1.0
+5059319023533,Rice Krispies,Kellogg's,360.0,7.9,1.2,2.9,7,1,389,c,15.8,moderate,0,Endcap-South,549,0.316
+5050083516313,Céréales Extra Kellogg's Pépites Chocolat au lait,Kellogg's,500.0,25,22,4.9,7,0.68,484,e,50.0,high,1,Aisle 2B,1042,1.0
+8480000229663,Corn Flakes 0% azúcares añadidos,HACENDADL,30.0,0.9,1.1,4.4,6.7,1,373.333333333333,c,1.8000000000000003,low,0, Aisle 3C,877,0.036000000000000004
+3111902100037,Muesli Bio Croustillant Amande Vanille,Charles Vignon,375.0,16,18,5.7,9.2,0.01,457.777777777778,c,32.0,high,1,,,0.64
+5059319030913,Coco Pops,Kellogg's,550.0,17,1.9,3.8,6.3,0.65,386,c,34.0,high,1, Aisle 3C,191,0.68
+3560071407773,Croustillant graines de courge et de tournesol,"Carrefour BIO, Carrefour",375.0,15,14,6.2,11,0.02,425,c,30.0,high,1, Aisle 3C,656,0.6
+3564706624467,Flocons d'avoine,Marque Repère,500.0,0.7,7,10,14,0.025,372,a,1.4,low,0,Aisle 4B,937,0.027999999999999997
+4056489687337,Muesli Crunchy,Crownfield,500.0,16,15.8,9.8,8.9,0.00013,445,c,32.0,high,1,Endcap-South,1179,0.64
+5053827175654,,Kellogg's,330.0,17,1.9,3.8,6.3,0.65,386,c,34.0,high,1,Aisle 2B,795,0.68
+3560071270285,Petits flocons d'avoine complète,Carrefour BIO,500.0,1,7.9,8.7,11,0,373,a,2.0,low,0,Aisle 1A,922,0.04
+8410188012092,Kelloggs corn flakes the original,Kellogg's,500.0,8,0.9,3,7,1.1,383.205863607393,d,16.0,moderate,0,,,0.32
+8480000094742,Granola baja en azúcares,Hacendado,400.0,4.7,22.7,8.5,13.6,0.02,477,a,9.4,moderate,0, Aisle 3C,null,0.188
+3229820786599,Flocons d'avoine 4 graines et raisins,Bjorg,375.0,8.6,12,11,15,0.03,394,a,17.2,moderate,0,Aisle 2B,242,0.344
+3564706612792,Muesli 4 Noix,"Marque Repère, Grainéa",500.0,16,18,8.5,11,0.15,463,c,32.0,high,1, Aisle 3C,664,0.64
+5010477365378,Céréales oh my crips fruit,JORDANS,400.0,9.8,18,18,8.5,0.05,427,b,19.6,moderate,0,Aisle 4B, 483 ,0.392
+3250391896554,Flocons d'avoine complète 500g,Chabrior,500.0,1.1,6.8,10,12,0.05,369,a,2.2,low,0, Aisle 3C,732,0.044000000000000004
+3229820804224,Céréales complètes au chocolat noir intense,Bjorg,450.0,17,19,9.1,9.6,0.17,460,c,34.0,high,1,Aisle 2B,"1,192",0.68
+3168930158158,Cruesli miel et noisettes,"Cruesli, QUAKER",450.0,15,18,9.4,7.5,0.06,460,b,30.0,high,1, Aisle 3C,581,0.6
+8445290114594,Crousti fondant choco-noisettes,"Nestlé, Nat",340.0,17.5,17.4,6.2,7.7,0.22,452,c,35.0,high,1,Endcap-South,978,0.7
+5010029000801,Weetabix,Weetabix,860.0,4.2,2,10,11,0.28,354.66667,a,8.4,moderate,0,Aisle 2B,"1,088",0.168
+3421557501685,Muesli croustillant chocolat 500 g,T&C terres & céréales Bio,500.0,9.6,6.6,3.9,4.7,0.03,437,c,19.2,moderate,0,Endcap-South,567,0.384
+8480000095718,Copos de trigo espelta integral 0%,Hacendado,400.0,1.9,2.7,8.8,14.6,0.78,364,a,3.8,low,0, Aisle 3C,247,0.076
